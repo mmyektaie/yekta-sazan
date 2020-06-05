@@ -3,16 +3,6 @@
 body {
   font-family: Rubik;
 }
-.container{
-  direction: rtl;
-  text-align:right;
-}
-.navbar-dropdown.navbar-fixed-top{
-  direction: rtl;
-}
-.countdown-cont {
-direction: ltr;;
-}
 .display-1 {
   font-family: 'B Zar_0';
   font-size: 4.25rem;
@@ -2129,7 +2119,7 @@ section.lazy-placeholder:after {
   content: '100';
 }
 .cid-rSbcKSHt7y .progress3 .progressbar-number:before {
-  content: '79';
+  content: '80';
 }
 .cid-rSbcKSHt7y .progress4 .progressbar-number:before {
   content: '70';
@@ -3110,13 +3100,13 @@ section.lazy-placeholder:after {
   background: #149dcc;
 }
 .cid-rSbkG8WamT .progress1 .progressbar-number:before {
-  content: '86';
-}
-.cid-rSbkG8WamT .progress2 .progressbar-number:before {
   content: '90';
 }
+.cid-rSbkG8WamT .progress2 .progressbar-number:before {
+  content: '95';
+}
 .cid-rSbkG8WamT .progress3 .progressbar-number:before {
-  content: '37';
+  content: '54';
 }
 .cid-rSbkG8WamT .progress4 .progressbar-number:before {
   content: '70';
@@ -4101,10 +4091,10 @@ section.lazy-placeholder:after {
   content: '44';
 }
 .cid-rSbPUWDNKo .progress2 .progressbar-number:before {
-  content: '46';
+  content: '55';
 }
 .cid-rSbPUWDNKo .progress3 .progressbar-number:before {
-  content: '28';
+  content: '35';
 }
 .cid-rSbPUWDNKo .progress4 .progressbar-number:before {
   content: '70';
@@ -5085,13 +5075,13 @@ section.lazy-placeholder:after {
   background: #149dcc;
 }
 .cid-rScbkE6Vaf .progress1 .progressbar-number:before {
-  content: '23';
+  content: '25';
 }
 .cid-rScbkE6Vaf .progress2 .progressbar-number:before {
-  content: '6';
+  content: '13';
 }
 .cid-rScbkE6Vaf .progress3 .progressbar-number:before {
-  content: '4';
+  content: '8';
 }
 .cid-rScbkE6Vaf .progress4 .progressbar-number:before {
   content: '70';
