@@ -3,6 +3,16 @@
 body {
   font-family: Rubik;
 }
+.container{
+  direction: rtl;
+  text-align:right;
+}
+.navbar-dropdown.navbar-fixed-top{
+  direction: rtl;
+}
+.countdown-cont {
+direction: ltr;;
+}
 .display-1 {
   font-family: 'B Zar_0';
   font-size: 4.25rem;
@@ -2119,7 +2129,7 @@ section.lazy-placeholder:after {
   content: '100';
 }
 .cid-rSbcKSHt7y .progress3 .progressbar-number:before {
-  content: '80';
+  content: '79';
 }
 .cid-rSbcKSHt7y .progress4 .progressbar-number:before {
   content: '70';
@@ -3100,13 +3110,13 @@ section.lazy-placeholder:after {
   background: #149dcc;
 }
 .cid-rSbkG8WamT .progress1 .progressbar-number:before {
-  content: '90';
+  content: '86';
 }
 .cid-rSbkG8WamT .progress2 .progressbar-number:before {
-  content: '95';
+  content: '90';
 }
 .cid-rSbkG8WamT .progress3 .progressbar-number:before {
-  content: '54';
+  content: '37';
 }
 .cid-rSbkG8WamT .progress4 .progressbar-number:before {
   content: '70';
@@ -4091,10 +4101,10 @@ section.lazy-placeholder:after {
   content: '44';
 }
 .cid-rSbPUWDNKo .progress2 .progressbar-number:before {
-  content: '55';
+  content: '46';
 }
 .cid-rSbPUWDNKo .progress3 .progressbar-number:before {
-  content: '35';
+  content: '28';
 }
 .cid-rSbPUWDNKo .progress4 .progressbar-number:before {
   content: '70';
@@ -5075,13 +5085,13 @@ section.lazy-placeholder:after {
   background: #149dcc;
 }
 .cid-rScbkE6Vaf .progress1 .progressbar-number:before {
-  content: '25';
+  content: '23';
 }
 .cid-rScbkE6Vaf .progress2 .progressbar-number:before {
-  content: '13';
+  content: '6';
 }
 .cid-rScbkE6Vaf .progress3 .progressbar-number:before {
-  content: '8';
+  content: '4';
 }
 .cid-rScbkE6Vaf .progress4 .progressbar-number:before {
   content: '70';
