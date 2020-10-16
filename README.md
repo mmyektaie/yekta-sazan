@@ -1,2 +1,0 @@
-# yekta-sazan
-GitHub Pages
