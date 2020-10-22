@@ -3,16 +3,6 @@
 body {
   font-family: Rubik;
 }
-.container{
-  direction: rtl;
-  text-align:right;
-}
-.navbar-dropdown.navbar-fixed-top{
-  direction: rtl;
-}
-.countdown-cont {
-direction: ltr;
-}
 .display-1 {
   font-family: 'B Zar_0';
   font-size: 4.25rem;
